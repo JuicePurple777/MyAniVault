@@ -23,3 +23,12 @@ Otherwise, this application if free for use!
 Download : https://github.com/JuicePurple777/JuicyWatch-Local/releases
 
 
+After:
+
+<img width="1920" height="1080" alt="JuicyWatch - Visual of product - C++ Version" src="https://github.com/user-attachments/assets/2b85c27d-2d74-4e6d-8688-9eeccdc7a8b6" />
+
+
+Before :
+
+<img width="1292" height="789" alt="Before" src="https://github.com/user-attachments/assets/5d012f3b-5eb4-4bb3-802a-89b09ce289c9" />
+
