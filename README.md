@@ -17,7 +17,8 @@ Steps to take when you open JuicyWatch-Local for the first time :
 
 This application was created with assistance from AI and a friend.
 
-I hope you like this application :). If you want to show your appreciation, you may donate to me, it would be much appreciated.
+I hope you like this application :). If you want to show your appreciation, feel free to donate to me, it would be much appreciated.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B11ZBH0A)
 Otherwise, this application if free for use!
 
 Download : https://github.com/JuicePurple777/JuicyWatch-Local/releases
