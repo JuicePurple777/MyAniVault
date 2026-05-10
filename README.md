@@ -20,4 +20,6 @@ This application was created with assistance from AI and a friend.
 I hope you like this application :). If you want to show your appreciation, you may donate to me, it would be much appreciated.
 Otherwise, this application if free for use!
 
+Download : https://github.com/JuicePurple777/JuicyWatch-Local/releases
+
 
