@@ -10,7 +10,7 @@ The application is suppose to mimic that of a steaming service. Application was 
 Steps to take when you open MyAniVault for the first time :
 
 	1. Open "Settings" in the top right-hand corner of your application.
-	2. Add your chosen media player in the "MEDIA PLAYER" section of the settings by clicking "Browse."
+	2. In "General" tab, add your chosen media player in the "MEDIA PLAYER" section of the settings by clicking "Browse."
 	3. Add video media folder(s) in the "LIBRARY FOLDERS" portion of the settings.
 	4. Save your settings at the bottom of the settings menu.
 
