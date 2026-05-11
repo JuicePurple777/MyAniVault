@@ -26,7 +26,8 @@ Download : https://github.com/JuicePurple777/MyAniVault/releases
 
 After:
 
-<img width="1920" height="1080" alt="JuicyWatch - Visual of product - C++ Version" src="https://github.com/user-attachments/assets/2b85c27d-2d74-4e6d-8688-9eeccdc7a8b6" />
+<img width="1920" height="1080" alt="MyAniVault Preview" src="https://github.com/user-attachments/assets/721e0e43-1b35-4a7d-b81a-5bf87caf03ab" />
+
 
 
 
