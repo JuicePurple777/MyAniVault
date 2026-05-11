@@ -21,7 +21,7 @@ I hope you like this application :). If you want to show your appreciation, feel
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B11ZBH0A)
 Otherwise, this application is free for use!
 
-Download : https://github.com/JuicePurple777/MyAniVault/releases
+Download : [https://github.com/JuicePurple777/MyAniVault/releases](https://github.com/JuicePurple777/MyAniVault/releases)
 
 
 After:
