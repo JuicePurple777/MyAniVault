@@ -1,4 +1,4 @@
-# MyAniVault
+# MyAniVault (Local Library)
 
 This application, MyAniVault, is a local application that runs directly on your computer locally.
 
