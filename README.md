@@ -26,7 +26,8 @@ Download : [https://github.com/JuicePurple777/MyAniVault/releases](https://githu
 
 After:
 
-<img width="1920" height="1032" alt="MyAniVault Preview" src="https://github.com/user-attachments/assets/16bef13e-74a6-4485-acae-274de449000d" />
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/f39ecd33-3462-49f2-97ed-cf3c6775e27f" />
+
 
 
 
